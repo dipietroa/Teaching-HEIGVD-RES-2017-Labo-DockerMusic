@@ -1,0 +1,7 @@
+{
+    "tcp_port": 2205,
+    "udp_port": 8888,
+    "multicast_adr": "239.255.22.5",
+    "interval": 1000,
+    "inactive_delay": 5000
+}

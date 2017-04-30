@@ -1,0 +1,15 @@
+{
+  "name": "RES-Musician",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Play music",
+  "author": "adrian.dipietro@heig-vd.ch",
+  "main": "musician.js",
+  "scripts": {
+    "start": "node musician.js"
+  },
+  "dependencies": {
+    "uuid": "2.0.2",
+    "moment": "2.13.0"
+  }
+}

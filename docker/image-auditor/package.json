@@ -1,0 +1,14 @@
+{
+  "name": "RES-Auditor",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Listen music",
+  "author": "adrian.dipietro@heig-vd.ch",
+  "main": "auditor.js",
+  "scripts": {
+    "start": "node auditor.js"
+  },
+  "dependencies": {
+    "moment": "2.13.0"
+  }
+}
